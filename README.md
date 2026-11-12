@@ -3,6 +3,7 @@
 An interactive Power BI dashboard for a Direct-to-Consumer (D2C) beauty and skincare brand. It tells one story, from ad click to product sold, so non-technical decision-makers can see which channels are efficient, where customers drop off, and which products actually perform.
 
 > Team: Aku UNS | Participant ID: VISBI26034
+> Built by Arif Nuri Setiawan, Ilham Ghozali
 
 ## Business Problem
 Beauty D2C brands run many channels at once (Meta Ads, Google Ads, TikTok Ads, KOL, email, marketplaces), so data is scattered across sources. This dashboard consolidates it to answer three questions:
@@ -53,5 +54,3 @@ Power BI Desktop · Power Query · DAX
 ## How to Open
 Download `dashboard_visbi.pbix` and open it with Power BI Desktop.
 
-## Screenshots
-(add dashboard screenshots here)
